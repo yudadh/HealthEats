@@ -15,3 +15,17 @@ Healtheats is p.............
 | I Putu Yuda Dharmawan   | C014BSY3974 | Cloud Computing    |
 
 ## Project Documentation
+### Machine Learning
+
+### Cloud Computing
+#### Setup Project
+- Clone the project
+- Open CC folder
+- Open terminal
+- Run the command
+  - `npm install`
+  - `npx prisma introspect`
+  - `npx prisma migrate` 
+- For the API Documentation check it here -> [Documentation](https://documenter.getpostman.com/view/29695288/2s9YkobgDu).
+
+### Mobile Development

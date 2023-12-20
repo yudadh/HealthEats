@@ -5,7 +5,7 @@ Healtheats is p.............
 ## Our Team
 ### Team ID: CH2-PS313
 | Name                    | Bangkit ID  | Learning Path      |
-| :---                    |    :----:   |          ---:      |
+| :---                    |    :----:   |          :---      |
 | Miftakhul Ilmiyah       | M356BSX0960 | Machine Learning   |
 | Layla Indah Pradita     | M200BSX0876 | Machine Learning   | 
 | Putri Maharani Suta     | M315BSX1851 | Machine Learning   |

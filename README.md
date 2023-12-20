@@ -18,6 +18,8 @@ Healtheats is p.............
 ### Machine Learning
 
 ### Cloud Computing
+#### Cloud Architecture
+![This is our Architecture!](/Github%Assets/Architecture.png "Cloud Architecture")
 #### Setup Project
 - Clone the project
 - Open CC folder

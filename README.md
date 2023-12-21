@@ -19,7 +19,7 @@ Healtheats is p.............
 
 ### Cloud Computing
 #### Cloud Architecture
-![This is our Architecture!]([/Github%Assets/Architecture.png](https://github.com/yudadh/HealthEats/blob/main/Github%20Assets/Architecture.png) "Cloud Architecture")
+![This is our Architecture!](https://github.com/yudadh/HealthEats/blob/main/Github%20Assets/Architecture.png) "Cloud Architecture")
 #### Setup Project
 - Clone the project
 - Open CC folder

@@ -1,6 +1,6 @@
 # HealthEats
 ## Bangkit 2023 Batch 2 Capstone Product
-Healtheats is p.............
+HealthEats is an application used to diagnose the possibility of developing non-communicable diseases and provide food recommendations that can prevent these diseases. This application has hopes and goals to reduce mortality from non-communicable diseases to create a better sustainable life.
 
 ## Our Team
 ### Team ID: CH2-PS313

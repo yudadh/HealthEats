@@ -17,6 +17,12 @@ HealthEats is an application used to diagnose the possibility of developing non-
 ## Project Documentation
 ### Machine Learning
 
+
+Before building the model, we have to clean the dataset from missing values, outlier data, data imbalances, etc. We also use feature selection to find the most influential attributes. Then we use encoding techniques so that the input can be understood and processed by the computer. When building the model, we used a model architecture consisting of an input layer with 8 input features, two hidden layers with 8 neurons each, and an output layer with 3 neurons for classification. The activation function used in the hidden layer is ReLU, and softmax is used in the output layer with 3 classes.
+
+
+[Our Model structure here!](https://github.com/yudadh/HealthEats/blob/main/ML/Modelling_fix.ipynb) .
+
 ### Cloud Computing
 #### - Cloud Architecture
 ![This is our Architecture!](https://github.com/yudadh/HealthEats/blob/main/Github%20Assets/Architecture.png)

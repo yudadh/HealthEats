@@ -45,7 +45,7 @@ In this application we use the Model-View-ViewModel (MVVM) concept, which is an 
 
 ![This is our UI!](https://github.com/yudadh/HealthEats/blob/main/Github%20Assets/Capstone%20project%20-%20presentation.pptx.png)
 
-![MD Repository](https://github.com/alfinur063/Capstone)
+[MD Repository](https://github.com/alfinur063/Capstone)
 #### - Feature
 - Interraction with API
 - Using Android Architecture Component(ViewModel and LiveData)

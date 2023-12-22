@@ -15,6 +15,9 @@ HealthEats is an application used to diagnose the possibility of developing non-
 | I Putu Yuda Dharmawan   | C014BSY3974 | Cloud Computing    |
 
 ## Project Documentation
+- [Project Brief here!](https://docs.google.com/document/d/1MR1Yxh-zCZV1Mic5aCKdqdmvJxICzmYz/edit)
+- [Presentation here!](https://docs.google.com/presentation/d/1DZyOQYUs8PaMJ8HUwSgcHmb-qaGFf_Ss/edit#slide=id.p1)
+
 ### Machine Learning
 
 

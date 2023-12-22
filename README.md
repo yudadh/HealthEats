@@ -37,3 +37,16 @@ Before building the model, we have to clean the dataset from missing values, out
 - For the API Documentation check it here -> [Documentation](https://documenter.getpostman.com/view/29695288/2s9YkobgDu).
 
 ### Mobile Development
+
+In this application we use the Model-View-ViewModel (MVVM) concept, which is an architectural pattern that prioritizes separation of interests, separation of graphical interfaces and business logic processes (back-end logic).
+
+![This is our UI!](https://github.com/yudadh/HealthEats/blob/main/Github%20Assets/Capstone%20project%20-%20presentation.pptx.png)
+
+#### - Feature
+- Interraction with API
+- Using Android Architecture Component(ViewModel and LiveData)
+- Using library Retrofit for networking
+- A page display a list foods
+- A page display a recomendation foods
+- display result recomendation
+
